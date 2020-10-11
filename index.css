@@ -1,23 +1,12 @@
 
 
-/* We are using tag name --->  element selector */
-/* h1 {
-	color: chartreuse;
-} */
-
 /* Class Selector */ 
 .heading {
 	color: chartreuse;
 }
 
-.headingTwo {
-	color:blue;
-}
 
 #title {
 	background-color: beige;
 }
 
-* {
-	color: red;
-}
