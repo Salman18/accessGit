@@ -129,3 +129,75 @@ color:	rgb(178, 211, 211)
 		line-height: 26px;
 	}
 	}
+	
+	
+	
+@media only screen and (min-width:1024px)  {
+	
+	.sectionOne {
+		margin-top: 40px;
+		height: 40vh;
+		margin-left: 60px;
+	}
+	
+	.joc {
+		margin-top: 40px;
+		font-size: 3rem;
+	}
+	
+	
+.hassle-free {
+	font-size: 2.5rem;
+}
+
+	.description {
+		max-width: 50%;
+		font-size: 2.25rem;
+		line-height: 50px;
+		margin-bottom: 5px;
+	}
+	
+	.sectionTwo {
+		padding-left: 60px;
+		float: left;
+		width: 50%;
+		height: 60vh;
+	}
+	
+	.ms {
+		margin-top: 40px;
+		font-size: 2.5rem;
+	}
+	.fe {
+		font-size: 5rem;
+	}
+	
+	.rate {
+		margin-top: 30px;
+		font-size: 2rem;
+	}
+	
+	.third {
+		margin-top: 20px;
+		font-size: 2rem;
+	}
+	
+.button {
+	margin-top: 50px;
+    height: 90px;
+    width: 60%;
+				text-align: center;
+				font-size: 1.75rem;
+}
+	.sectionThree {
+		padding-left: 60px;
+		float: left;
+		width: 50%;
+		height: 60vh;
+	}
+	
+	.paragraph {
+		font-size: 2rem;
+		line-height: 45px;
+	}
+	}
